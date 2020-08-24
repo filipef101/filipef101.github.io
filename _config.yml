@@ -6,7 +6,7 @@ darkmode: false
 name: Filipe Fernandes
 title: Lead Mobile & Full Stack Developer
 email: filipef101@sapo.pt
-website: https://filas.me
+# website: https://filas.me
 
 # Social links
 twitter_username: zilipef101
@@ -24,7 +24,7 @@ linkedin_username: filipef101
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currenly working as Mobile & Full-Stack Developer at Logirix.
+  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Mobile & Full-Stack Developer at Logirix.
 
   Passionate about new and cutting-edge technologies, and security.
 
@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   When I'm not coding I'm debating serious topics with my cat.
 
-  I speak native <mark>Portuguese</mark>, fluent <mark>English</mark> and baguette French
+  I speak native <mark>Portuguese</mark>, fluent <mark>English</mark> and baguette French.
 
 # Experience Section
 # experience_title: Experience

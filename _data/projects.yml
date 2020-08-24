@@ -5,7 +5,7 @@
   # quote: >
   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    At Logirix I am responsible for the training and induction of new staff
+    At Logirix I am responsible for the training and induction of new staff.
 
 - layout: top
   name: Excellent communication skills
@@ -14,7 +14,7 @@
   # quote: >
   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Gained at my Internships, mainly, at PT Data Center and through my experience at Logirix
+    Gained at my Internships, mainly, at PT Data Center and through my experience at Logirix.
 
 - layout: top
   name: Team-leading skills
@@ -23,16 +23,16 @@
   # quote: >
   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Gained as Lead developer at Logirix
+    Gained as Lead developer at Logirix.
 
 - layout: top
-  name: "Tech skills include:"
+  name: "Tech skills include"
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   # quote: >
   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>Expo</mark> <mark>MongoDB</mark> <mark>Realm DB</mark> <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>App Store</mark> <mark>Play Store</mark> <mark>iOS</mark> <mark>Android</mark> <mark>C#</mark> <mark>Malware Analisys</mark> <mark>Jira</mark> <mark>NoSQL Databases</mark> <mark>Git</mark> <mark>.NET</mark> <mark>Continuous Delivery</mark> <mark>Internationalization</mark> <mark>Localization</mark>
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>Expo</mark> <mark>MongoDB</mark> <mark>Realm DB</mark> <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>Release Management</mark> <mark>iOS</mark> <mark>Android</mark> <mark>C#</mark> <mark>NoSQL Databases</mark> <mark>Git</mark> <mark>.NET</mark> <mark>Continuous Delivery</mark> <mark>Internationalization</mark> <mark>Localization</mark>
 
 - layout: top
   name: "Soft Skills & Personal Traits"
@@ -41,4 +41,4 @@
   # quote: >
   # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    <mark>Ability to Lead</mark> <mark>Effective Communication</mark> <mark>Relationship Building</mark> <mark>Industry Expertise</mark> <mark>Perceptive of Team Needs</mark> <mark>Trustworthiness</mark> <mark>Time Management</mark> <mark>Commitment</mark> <mark>Confidence</mark> <mark>Problem Solving</mark> <mark>Work Ethic</mark> <mark>Adaptability</mark> <mark>Empathy</mark> <mark>Taking criticism</mark> <mark>Conflict Resolution</mark> <mark>Ability to delegate</mark> <mark>Identify goals</mark> <mark>Valuate progress</mark>
+    <mark>Ability to Lead</mark> <mark>Effective Communication</mark> <mark>Relationship Building</mark> <mark>Industry Expertise</mark> <mark>Perceptive of Team Needs</mark> <mark>Trustworthiness</mark> <mark>Time Management</mark> <mark>Commitment</mark> <mark>Confidence</mark> <mark>Problem Solving</mark> <mark>Work Ethics</mark> <mark>Adaptability</mark> <mark>Empathy</mark> <mark>Taking criticism</mark> <mark>Conflict Resolution</mark> <mark>Ability to delegate</mark> <mark>Identify goals</mark> <mark>Valuate progress</mark>

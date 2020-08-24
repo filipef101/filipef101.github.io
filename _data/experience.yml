@@ -4,13 +4,13 @@
   job_title: Lead Mobile and Full Stack Developer
   dates: September 2017 - Present
   quote: >
-    Creating online services and mobile apps for startups and organisations.
+    Creating online services and mobile apps for startups and organizations.
   description: | # this will include new lines to allow paragraphs
-    During my time at Logirix, 3 years and counting, I have learned most of my key skills, such as teamwork and working to tight deadlines. I thouroughly enjoy my time at Logirix and I learn a lot, and enjoy a healthy work life balance.
+    During my time at Logirix, 3 years and counting, I have learned most of my key skills, such as teamwork and working to tight deadlines. I thoroughly enjoy my time at Logirix and I learn a lot, and relish a healthy work life balance.
 
     ▪ Development of mobile apps with React Native
 
-    ▪ Lead Agile development
+    ▪ Agile development
 
     ▪ Mobile Tech Lead
 
@@ -18,9 +18,9 @@
 
     ▪ Continuous delivery
 
-    ▪ Build pixel perfect UI interfaces.
+    ▪ Build pixel perfect user interfaces
 
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>MongoDB</mark> <mark>Realm</mark> <mark>SQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>CI/CD</mark> <mark>App Store</mark> <mark>Play Store</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Zeplin</mark> <mark>Sketch</mark>
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>Jira</mark> <mark>MongoDB</mark> <mark>Realm</mark> <mark>SQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>CI/CD</mark> <mark>App Store</mark> <mark>Play Store</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Zeplin</mark> <mark>Sketch</mark>
 
 - layout: left
   company: Portugal Telecom Data Center (Altice)
@@ -30,9 +30,9 @@
   quote: >
     Major Service Provider Data Center
   description: | # this will include new lines to allow paragraphs
-    During my time at the Data Center I learned a lot, I integrated the first line of the SOC (Security Operacions Center) and CSIRT (Computer Security Incident Response Team).
+    During my time at the Data Center I learned a lot, I integrated the first line of the SOC (Security Operations Center) and CSIRT (Computer Security Incident Response Team).
 
-    My resposabilities included:
+    My responsibilities included:
 
     ▪ Incident flow. Processes and procedures.
 
@@ -58,9 +58,9 @@
   job_title: Internship
   dates: May 2015 - July 2015
   quote: >
-    Creating online services and mobile apps for startups and organisations.
+    Creating online services and mobile apps for startups and organizations.
   description: | # this will include new lines to allow paragraphs
-    As part of my formation at Secondary School I had an intership at Logirix, where I developed of a communication app with asymmetric cryptography for all mobile platforms, (iOS, Android an Windows Phone) in <mark>C#</mark> with <mark>Xamarin</mark>  Studio
+    As part of my secondary school course I had an internship at Logirix, where I developed of a communication app with asymmetric cryptography for all mobile platforms, (iOS, Android an Windows Phone) in <mark>C#</mark> with <mark>Xamarin</mark>  Studio.
 
 - layout: left
   company: SFLAG
@@ -69,4 +69,4 @@
   quote: >
     Development, consulting, implementation, support and commercialization of hardware, networks and technological systems.
   description: | # this will include new lines to allow paragraphs
-    As part of my formation at Secondary School I had an intership at SFLAG (IT systems), where developed in <mark>C#</mark> a harware management and maintenence software with support for bar code readers with an <mark>SQLite</mark> database.
+    During my course in secondary school I had an internship at SFLAG (IT systems), where developed in <mark>C#</mark> a hardware management and maintenance software with support for bar code readers with an <mark>SQLite</mark> database.
