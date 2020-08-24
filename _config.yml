@@ -1,7 +1,7 @@
 # Site
 repository: filipef101/filipef101.github.io
 favicon: images/favicon.ico
-darkmode: false 
+darkmode: false
 # Personal info
 name: Filipe Fernandes
 title: Lead Mobile & Full Stack Developer
@@ -10,7 +10,7 @@ website: https://filas.me
 
 # Social links
 twitter_username: zilipef101
-github_username:  filipef101
+github_username: filipef101
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -24,7 +24,7 @@ linkedin_username: filipef101
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Filipe and I'm from Portugal, currenly work as Mobile & Full-Stack Developer at Logirix Portugal.
+  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currenly work as Mobile & Full-Stack Developer at Logirix Portugal.
 
   Passionate about new and cutting-edge technologies, and security.
 
@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   When I'm not coding I'm debating serious topics with my cat.
 
-  I speak fluent <mark>English</mark> and basic French
+  I speak native <mark>Portuguese</mark>, fluent <mark>English</mark> and baguette French
 
 # Experience Section
 # experience_title: Experience
@@ -47,6 +47,7 @@ projects_title: Skills
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Nature & Sightseeing
    - Cats
    - Gaming
    - Movies
@@ -62,4 +63,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
