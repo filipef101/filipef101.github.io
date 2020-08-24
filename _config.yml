@@ -1,1 +1,65 @@
-theme: jekyll-theme-architect
+# Site
+repository: filipef101/filipef101.github.io
+favicon: images/favicon.ico
+darkmode: false 
+# Personal info
+name: Filipe Fernandes
+title: Lead Mobile & Full Stack Developer
+email: filipef101@sapo.pt
+website: https://filas.me
+
+# Social links
+twitter_username: zilipef101
+github_username:  filipef101
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: filipef101
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Filipe and I'm from Portugal, currenly work as Mobile & Full-Stack Developer at Logirix Portugal.
+
+  Passionate about new and cutting-edge technologies, and security.
+
+  I am most skilled in: <mark>React Native</mark> and <mark>TypeScript</mark>
+
+  When I'm not coding I'm debating serious topics with my cat.
+
+  I speak fluent <mark>English</mark> and basic French
+
+# Experience Section
+# experience_title: Experience
+
+# Projects Section
+projects_title: Skills
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Cats
+   - Gaming
+   - Movies
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
