@@ -1,44 +1,46 @@
-- layout: top
-  name: Mentoring skills
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  # quote: >
-  # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    At Logirix I am responsible for the training and induction of new staff.
+# - layout: top
+#   name: Bom Condutor
+#   link: https://play.google.com/store/apps/details?id=com.filas.bomcondutor
+#   quote: >
+#     Most popular Portuguese driving theory learning platform mobile app. 
+#   description: |
+#     Developed a mobile app to provide the biggest driving theory learning and exams platform on mobile platforms.
 
-- layout: top
-  name: Excellent communication skills
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  # quote: >
-  # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Gained at my Internships, mainly, at PT Data Center and through my experience at Logirix.
+#     <mark>Android</mark> <mark>Kotlin</mark> <mark>Mozilla Gecko</mark> <mark>Gradle</mark>
 
-- layout: top
-  name: Team-leading skills
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  # quote: >
-  # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Gained as Lead developer at Logirix.
+# - layout: top
+#   name: Sippy
+#   link: sippy.io
+#   quote: >
+#     Sippy helps you to do real-life activities together.
+#   description: |
+#     At Logirix I took lead in developing Sippy, a React Native app, for iOS and Android, the focus of the app is to bring together people to play games and activities in real life.
 
-- layout: top
-  name: "Tech skills include"
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  # quote: >
-  # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>Expo</mark> <mark>MongoDB</mark> <mark>Realm DB</mark> <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>Release Management</mark> <mark>iOS</mark> <mark>Android</mark> <mark>C#</mark> <mark>NoSQL Databases</mark> <mark>Git</mark> <mark>.NET</mark> <mark>Continuous Delivery</mark> <mark>Internationalization</mark> <mark>Localization</mark>
+#     Among the technologies used some worth noting: Firebase, Google maps, XMPP, socket.io, python, nodeJS, IBM Loopback, MongoDB
 
-- layout: top
-  name: "Soft Skills & Personal Traits"
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  # quote: >
-  # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    <mark>Ability to Lead</mark> <mark>Effective Communication</mark> <mark>Relationship Building</mark> <mark>Industry Expertise</mark> <mark>Perceptive of Team Needs</mark> <mark>Trustworthiness</mark> <mark>Time Management</mark> <mark>Commitment</mark> <mark>Confidence</mark> <mark>Problem Solving</mark> <mark>Work Ethics</mark> <mark>Adaptability</mark> <mark>Empathy</mark> <mark>Taking criticism</mark> <mark>Conflict Resolution</mark> <mark>Ability to delegate</mark> <mark>Identify goals</mark> <mark>Valuate progress</mark>
+#     <mark>CMS</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>Redux</mark> <mark>RealmDB</mark> <mark>Facebook SDK</mark>
+
+# - layout: top
+#   name: Dig-In
+#   link: diginbox.com/go
+#   quote: >
+#     Sippy helps you to do real-life activities together.
+#   description: |
+#     At Logirix I took part in developing Dig-In a beautiful app written in React Native, for iOS and Android, the focus of the app is to reward studens for the feedback on products.
+
+#     Among the technologies used some worth noting: Typescript, Realm, CMS, NodeJS
+
+#     <mark>CMS</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>Redux</mark> <mark>RealmDB</mark>
+
+# - layout: top
+#   name: Eroutes
+#   link: eroutes.com/walking-running-app/
+#   quote: >
+#     Mobile app that easily creates walking and running routes from your current GPS location.
+#   description: |
+#     I took part in developing Eroutes at Logirix an extremelly useful app written in React Native, for iOS and Android, focused in creating Run and Walk training plans with multiple, generated on the fly, amazing routes to choose from.
+
+#     Among the technologies used some worth noting: Typescript, Realm, CMS, Google Maps, MySQL, NodeJS
+#     <mark>JavaScript</mark> <mark>CMS</mark> <mark>React Native</mark> <mark>React</mark> <mark>Redux</mark> <mark>Routing</mark>
+
+

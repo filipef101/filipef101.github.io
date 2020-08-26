@@ -1,26 +1,35 @@
 - layout: right
   company: Logirix
   link: https://www.logirix.com/en/
-  job_title: Lead Mobile and Full Stack Developer
+  job_title: Tech Lead & Full Stack Developer
   dates: September 2017 - Present
   quote: >
     Creating online services and mobile apps for startups and organizations.
-  description: | # this will include new lines to allow paragraphs
+# At logirix I've worked on a plentitude of projects, you can see some on the projects section.
+  description: | # this will include new lines to allow paragraphs 
     During my time at Logirix, 3 years and counting, I have learned most of my key skills, such as teamwork and working to tight deadlines. I thoroughly enjoy my time at Logirix and I learn a lot, and relish a healthy work life balance.
 
-    ▪ Development of mobile apps with React Native
-
-    ▪ Agile development
-
-    ▪ Mobile Tech Lead
-
-    ▪ ExpressJS Backend development
-
-    ▪ Continuous delivery
+    ▪ Development of mobile apps with React Native for Android and iOS
 
     ▪ Build pixel perfect user interfaces
 
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>Jira</mark> <mark>MongoDB</mark> <mark>Realm</mark> <mark>SQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>CI/CD</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Zeplin</mark> <mark>Sketch</mark>
+    ▪ Mobile Tech Lead
+
+    ▪ Agile development
+
+    ▪ ExpressJS Backend development
+
+    ▪ REST API development and consumption
+
+    ▪ User management systems in React
+
+    ▪ Content Management Systems in React
+
+    ▪ Continuous delivery
+
+    ▪ Release Management
+
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>Jira</mark> <mark>MongoDB</mark> <mark>Realm</mark> <mark>SQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Zeplin</mark> <mark>Sketch</mark>
 
 - layout: left
   company: Portugal Telecom Data Center (Altice)
