@@ -1,46 +1,46 @@
-# - layout: top
-#   name: Bom Condutor
-#   link: https://play.google.com/store/apps/details?id=com.filas.bomcondutor
-#   quote: >
-#     Most popular Portuguese driving theory learning platform mobile app. 
-#   description: |
-#     Developed a mobile app to provide the biggest driving theory learning and exams platform on mobile platforms.
+- layout: left
+  name: Bom Condutor
+  link: https://play.google.com/store/apps/details?id=com.filas.bomcondutor
+  quote: >
+    Most popular Portuguese driving theory learning platform mobile app. 
+  description: |
+    Developed a mobile app to provide the biggest driving theory learning and exams platform on mobile platforms.
 
-#     <mark>Android</mark> <mark>Kotlin</mark> <mark>Mozilla Gecko</mark> <mark>Gradle</mark>
+    <mark>Android</mark> <mark>Kotlin</mark> <mark>Mozilla Gecko</mark> <mark>Gradle</mark>
 
-# - layout: top
-#   name: Sippy
-#   link: sippy.io
-#   quote: >
-#     Sippy helps you to do real-life activities together.
-#   description: |
-#     At Logirix I took lead in developing Sippy, a React Native app, for iOS and Android, the focus of the app is to bring together people to play games and activities in real life.
+- layout: left
+  name: Sippy
+  link: sippy.io
+  quote: >
+    Sippy helps you to do real-life activities together.
+  description: |
+    At Logirix I took lead in developing Sippy, a React Native app, for iOS and Android, the focus of the app is to bring together people to play games and activities in real life.
 
-#     Among the technologies used some worth noting: Firebase, Google maps, XMPP, socket.io, python, nodeJS, IBM Loopback, MongoDB
+    Among the technologies used some worth noting: Firebase, Google maps, XMPP, socket.io, python, nodeJS, IBM Loopback, MongoDB
 
-#     <mark>CMS</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>Redux</mark> <mark>RealmDB</mark> <mark>Facebook SDK</mark>
+    <mark>CMS</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>Redux</mark> <mark>RealmDB</mark> <mark>Facebook SDK</mark>
 
-# - layout: top
-#   name: Dig-In
-#   link: diginbox.com/go
-#   quote: >
-#     Sippy helps you to do real-life activities together.
-#   description: |
-#     At Logirix I took part in developing Dig-In a beautiful app written in React Native, for iOS and Android, the focus of the app is to reward studens for the feedback on products.
+- layout: left
+  name: Dig-In
+  link: diginbox.com/go
+  quote: >
+    Sippy helps you to do real-life activities together.
+  description: |
+    At Logirix I took part in developing Dig-In a beautiful app written in React Native, for iOS and Android, the focus of the app is to reward studens for the feedback on products.
 
-#     Among the technologies used some worth noting: Typescript, Realm, CMS, NodeJS
+    Among the technologies used some worth noting: Typescript, Realm, CMS, NodeJS
 
-#     <mark>CMS</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>Redux</mark> <mark>RealmDB</mark>
+    <mark>CMS</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>MongoDB</mark> <mark>Redux</mark> <mark>RealmDB</mark>
 
-# - layout: top
-#   name: Eroutes
-#   link: eroutes.com/walking-running-app/
-#   quote: >
-#     Mobile app that easily creates walking and running routes from your current GPS location.
-#   description: |
-#     I took part in developing Eroutes at Logirix an extremelly useful app written in React Native, for iOS and Android, focused in creating Run and Walk training plans with multiple, generated on the fly, amazing routes to choose from.
+- layout: left
+  name: Eroutes
+  link: eroutes.com/walking-running-app/
+  quote: >
+    Mobile app that easily creates walking and running routes from your current GPS location.
+  description: |
+    I took part in developing Eroutes at Logirix an extremelly useful app written in React Native, for iOS and Android, focused in creating Run and Walk training plans with multiple, generated on the fly, amazing routes to choose from.
 
-#     Among the technologies used some worth noting: Typescript, Realm, CMS, Google Maps, MySQL, NodeJS
-#     <mark>JavaScript</mark> <mark>CMS</mark> <mark>React Native</mark> <mark>React</mark> <mark>Redux</mark> <mark>Routing</mark>
+    Among the technologies used some worth noting: Typescript, Realm, CMS, Google Maps, MySQL, NodeJS
+    <mark>JavaScript</mark> <mark>CMS</mark> <mark>React Native</mark> <mark>React</mark> <mark>Redux</mark> <mark>Routing</mark>
 
 
