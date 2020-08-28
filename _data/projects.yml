@@ -4,7 +4,7 @@
   quote: >
     Most popular Portuguese driving theory learning platform mobile app. 
   description: |
-    Developed a mobile app to provide the biggest driving theory learning and exams platform on mobile platforms.
+    Developed a mobile app to provide the biggest driving theory learning and exams platform on mobile platforms, with over 25k active users.
 
     <mark>Android</mark> <mark>Kotlin</mark> <mark>Mozilla Gecko</mark> <mark>Gradle</mark>
 
@@ -41,7 +41,7 @@
     I took part in developing Eroutes at Logirix an extremelly useful app written in React Native, for iOS and Android, focused in creating Run and Walk training plans with multiple, generated on the fly, amazing routes to choose from.
 
     Among the technologies used some worth noting: Typescript, Realm, CMS, Google Maps, MySQL, NodeJS
-    
+
     <mark>JavaScript</mark> <mark>CMS</mark> <mark>React Native</mark> <mark>React</mark> <mark>Redux</mark> <mark>Routing</mark>
 
 
