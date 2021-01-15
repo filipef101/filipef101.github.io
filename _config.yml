@@ -25,7 +25,7 @@ gtm: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Mobile & Full-Stack Developer at Logirix.
+  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Mobile Developer at Rotageek.
 
   Passionate about new and cutting-edge technologies, and security.
 
