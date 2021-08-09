@@ -12,12 +12,14 @@
 
     I’ve taken responsibility for the architecture, build and maintenance of it. With a primary focus on the mobile app but, since I’m passionate about how tech can solve problems I was welcomed to work on web app and API development too. 
 
-    ▪ Mobile appn development using React Native
+    ▪ Mobile app development using React Native
 
     ▪ UX and platform best practices for both iOS and Android
 
     ▪ Mobile Lead
-
+    
+    ▪ QA Workflows
+    
     ▪ Agile development
 
     ▪ C# Backend development
@@ -34,7 +36,7 @@
 
     ▪ 3rd party integrations, SDKs, APIs, libraries, frameworks
 
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Push Notifications</mark> <mark>Jira</mark> <mark>MSSQL</mark> <mark>Apollo</mark> <mark>GraphQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>C#</mark> <mark>Visual Studio</mark> <mark>iOS</mark> <mark>Android</mark> 
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Push Notifications</mark> <mark>Jira</mark> <mark>MSSQL</mark> <mark>Apollo</mark> <mark>GraphQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>C#</mark> <mark>Visual Studio</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Bitrise</mark> <mark>Github Actions</mark> 
 
 - layout: right
   company: Logirix
