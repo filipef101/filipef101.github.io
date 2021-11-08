@@ -25,13 +25,15 @@ gtm: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Mobile Developer at Rotageek.
+  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Senior React Native Developer at pubGENIUS.
 
-  Passionate about new and cutting-edge technologies, and security.
+  Strong believer in the whole react-native ecosystem!
+
+  Passionate about new and cutting-edge technologies, and security. 
 
   I am most skilled in: <mark>React Native</mark> and <mark>TypeScript</mark>
 
-  When I'm not coding I'm debating serious topics with my cat.
+  When I'm not coding I'm debating serious topics with my cat. 
 
   I speak native <mark>Portuguese</mark>, fluent <mark>English</mark> and baguette French.
 
