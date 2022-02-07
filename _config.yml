@@ -4,12 +4,12 @@ favicon: images/favicon.ico
 darkmode: false
 # Personal info
 name: Filipe Fernandes
-title: Senior Mobile & Full Stack Developer
+title: Senior Engineer
 email: filipef101@sapo.pt
 # website: https://filas.me
 
 # Social links
-twitter_username: zilipef101
+# twitter_username: zilipef101
 github_username: filipef101
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -25,13 +25,13 @@ gtm: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Senior React Native Developer at pubGENIUS.
+  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Automation Engineer at Peppy Health.
 
   Strong believer in the whole react-native ecosystem!
 
   Passionate about new and cutting-edge technologies, and security. 
 
-  I am most skilled in: <mark>React Native</mark> and <mark>TypeScript</mark>
+  I am most skilled in: <mark>React Native</mark>, <mark>TypeScript</mark> and <mark>Mobile DevOps</mark> 
 
   When I'm not coding I'm debating serious topics with my cat. 
 
