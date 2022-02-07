@@ -4,7 +4,11 @@
   link: https://www.peppy.health
   job_title: Automation Engineer
   dates: January 2021 - Current
- 
+  quote: >
+    Peppy connects people to human experts for support when they need it most.
+  description: | # this will include new lines to allow paragraphs
+    Joined Peppy as an automation engineer! 
+  
 - layout: right
   company: pubGENIUS
   link: https://www.pubgenius.io
