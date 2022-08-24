@@ -25,7 +25,7 @@ gtm: true
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently working as Automation Engineer at Peppy Health.
+  Hi, my name's Filipe and I'm from Castelo Branco, Portugal, currently looking for a new challenge. 
 
   Strong believer in the whole react-native ecosystem!
 
