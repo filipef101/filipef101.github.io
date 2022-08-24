@@ -7,11 +7,13 @@
   quote: >
     Peppy connects people to human experts for support when they need it most.
   description: | # this will include new lines to allow paragraphs
-    Joined Peppy with an hybrid role, mobile developer and automation engineer! 
+    Joined Peppy with an hybrid role, senior mobile engineer and automation developer! 
     Supporting the needs to improve processes and developer experince, and contributing to the mobile codebase.
     Mobile DevOps, workflows among many other things. 
 
     ▪ Mobile app development using React Native with RESTful API's and thirdparty SDKs
+    
+    ▪ Improving developer experience
 
     ▪ Mentoring and coaching
 
@@ -19,9 +21,7 @@
     
     ▪ REST API consumption
 
-    ▪ Continuous delivery
-
-    ▪ CI/CD Integrations
+    ▪ Release management & CI/CD Integrations
   
 - layout: right
   company: pubGENIUS
@@ -31,7 +31,7 @@
   quote: >
     pubGENIUS develops technologies and provides services to many different types of clients in the advertising ecosystem.
   description: | # this will include new lines to allow paragraphs
-    Joined as a consultor, providing solutions for clients and in house applications.
+    Joined as a consultor, providing solutions for clients and in house platforms.
     Helping setup build pipelines, best prattices, development workflows, improving developer experience and in general help improve long term code quality and maintainability. 
     Mentoring colleagues on best pratices and supporting wherever needed.
     
