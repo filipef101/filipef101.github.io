@@ -1,4 +1,12 @@
 - layout: top
+  name: Tech Leading Skills
+  description: | # this will include new lines to allow paragraphs
+    During my time at Logirix I was ultimately reponsible for tech decisions, arquitechure and roadmaps for several projects
+    At Rotageek, I shaped tech solutions for all new mobile features, working alongside product and backend team, to ensure feasibility and planning according to requirements.
+    My successful goal at pubGENIUS was to establish great foundations for good SDLC, promoting better code quality, tech debt cleanup and avoidance. Strategic planning for feature development and sharing knowledge with other team members. 
+    At Peppy health altough outsite of scope for my role, I was a strong promoter for better ways to ship code, releases and promotting better SDLC processes. Always a strong communicator helping understand, plan, and act on feature implementation and releases. Advocated for better code quality and less tech debt. Helping team members where I could to remove any blockers.
+    
+- layout: top
   name: Mentoring skills
   # link: github.com/sproogen
   # github: sproogen/resume-theme
@@ -19,7 +27,7 @@
   # github: sproogen/resume-theme
   description: | # this will include new lines to allow paragraphs
     Gained as Lead developer at Logirix.
-    Giving support and mentoring developers at pubGENIUS as senior mobile developer.
+    Giving support and mentoring developers at pubGENIUS as senior mobile developer and at Peppy Health.
 
 - layout: top
   name: "Tech skills include"
