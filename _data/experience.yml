@@ -3,23 +3,26 @@
   company: Peppy Health
   link: https://www.peppy.health
   job_title: Senior Mobile Engineer
-  dates: January 2021 - Current
+  dates: January 2022 - August 2022
   quote: >
     Peppy connects people to human experts for support when they need it most.
   description: | # this will include new lines to allow paragraphs
-    Joined Peppy with an hybrid role, senior mobile engineer and automation developer! 
+    Joined Peppy with an hybrid role, senior mobile engineer and automation developer. 
     Supporting the needs to improve processes and developer experince, and contributing to the mobile codebase.
-    Mobile DevOps, workflows among many other things. 
+    Revamped DevOps with github workflows on mobile and internal packages.
+    On my day to day I contributed to defining solutions for new features and implementing them.
 
-    ▪ Mobile app development using React Native with RESTful API's and thirdparty SDKs
+    ▪ Mobile app development using React Native
+    
+    ▪ Unit and E2E testing
+    
+    ▪ RESTful API consumpting and thirdparty SDKs
     
     ▪ Improving developer experience
 
     ▪ Mentoring and coaching
 
     ▪ SDLC Workflows
-    
-    ▪ REST API consumption
 
     ▪ Release management & CI/CD Integrations
   
