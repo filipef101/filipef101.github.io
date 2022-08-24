@@ -63,13 +63,15 @@
 - layout: left
   company: Rotageek
   link: https://www.rotageek.com
-  job_title: Lead Mobile Developer
+  job_title: [Lead] Mobile Developer
   dates: January 2021 - October 2021
   quote: >
     Rotageek helps organisations predict and meet demand, using complex data-driven technologies to effectively and fairly schedule staff.
   description: | # this will include new lines to allow paragraphs
     Took ownership of the ‘jewel’ in the scheduling solution : the mobile app.
-
+    
+    Working as the sole mobile devoloper, leading and strategizing with product and API team all mobile work, and it's tech stack and technical decisions. 
+    
     Always improving the functionality of it, adding new features, improving the user experience and generally, adding features on mobile first, before they are rolled to the rest of the solution. 
 
     I’ve taken responsibility for the architecture, build and maintenance of it. With a primary focus on the mobile app but, since I’m passionate about how tech can solve problems I was welcomed to work on web app and API development too (C#). 
