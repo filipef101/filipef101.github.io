@@ -27,13 +27,17 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Filipe and I'm from Portugal.
 
-  Strong believer in the whole react-native ecosystem!
-
-  Passionate about new and cutting-edge technologies, and security. 
+  Senior Engineer with 8+ years of experience specializing in React Native mobile development. 
+  I've led critical technical initiatives in fintech and healthcare sectors, with a strong emphasis 
+  on code quality, security, and maintainability. Passionate about full-stack development, system design, 
+  and creating exceptional developer experiences through mentoring and best practices.
+  Expert in TypeScript, mobile DevOps, and cross-platform development.
 
   I am most skilled in: <mark>React Native</mark>, <mark>TypeScript</mark> and <mark>Mobile DevOps</mark> 
 
-  When I'm not coding I'm debating serious topics with my cat. 
+  Currently exploring Swift beyond mobile development while diving into other cross-platform frameworks like Kotlin Multiplatform and AvaloniaUI 
+
+  When I'm not coding, you'll find me engaged in philosophical debates with my cat or tinkering with home automation projects.
 
   I speak native <mark>Portuguese</mark>, fluent <mark>English</mark> and baguette French.
 
@@ -51,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Nature & Sightseeing
-   - Cats
+   - Home automation
    - Gaming
    - Movies
 

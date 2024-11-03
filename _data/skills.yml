@@ -1,44 +1,48 @@
-- layout: top
-  name: Tech Leading Skills
-  description: | # this will include new lines to allow paragraphs
-    During my time at Logirix I was ultimately reponsible for tech decisions, arquitechure and roadmaps for several projects
-    At Rotageek, I shaped tech solutions for all new mobile features, working alongside product and backend team, to ensure feasibility and planning according to requirements.
-    My successful goal at pubGENIUS was to establish great foundations for good SDLC, promoting better code quality, tech debt cleanup and avoidance. Strategic planning for feature development and sharing knowledge with other team members. 
-    At Peppy health altough outsite of scope for my role, I was a strong promoter for better ways to ship code, releases and promotting better SDLC processes. Always a strong communicator helping understand, plan, and act on feature implementation and releases. Advocated for better code quality and less tech debt. Helping team members where I could to remove any blockers.
-    
-- layout: top
-  name: Mentoring skills
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  description: | # this will include new lines to allow paragraphs
-    At Logirix I was responsible for the training and induction of new staff.
-    Giving support and mentoring developers at pubGENIUS
+- layout: top-middle
+  name: Mobile Development Expertise
+  description: |
+    • Deep expertise in React Native mobile development with 8+ years of experience
+    • Proficient in native module development across Java, Kotlin, Swift, and Objective-C
+    • Experience with mobile payment integrations including Google Pay and Apple Wallet
+    • Strong focus on app performance optimization and user experience
+    • Expertise in mobile CI/CD pipelines and release management
+    • Implementation of E2E testing using Maestro Studio and Testing Library
 
-- layout: top
-  name: Excellent communication skills
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  description: | # this will include new lines to allow paragraphs
-    Gained at my Internships, mainly, at PT Data Center and through my work experiences.
+- layout: top-middle
+  name: Technical Leadership
+  description: |
+    • Led platform modernization initiatives including TypeScript adoption and monorepo migration
+    • Architected and implemented solutions for complex fintech and healthcare applications
+    • Experience leading mobile development teams and mentoring junior developers
+    • Strong track record of improving development workflows and processes
+    • Expertise in establishing coding standards and best practices
+    • Proven ability to collaborate across domains (backend, web, mobile)
 
-- layout: top
-  name: Team-leading skills
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  description: | # this will include new lines to allow paragraphs
-    Gained as Lead developer at Logirix.
-    Giving support and mentoring developers at pubGENIUS as senior mobile developer and at Peppy Health.
+- layout: top-middle
+  name: Full Stack Development
+  description: |
+    • Backend development experience with Node.js, Express, and AWS Lambda
+    • Frontend web development with React and Next.js
+    • Database expertise across MongoDB, Firestore, SQL, and Realm
+    • Experience with GraphQL and REST API development
+    • Infrastructure as Code using Pulumi
+    • Cloud services integration (AWS, Firebase)
 
-- layout: top
-  name: "Tech skills include"
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  description: | # this will include new lines to allow paragraphs
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>JavaScript</mark> <mark>Expo</mark> <mark>MongoDB</mark> <mark>Realm DB</mark> <mark>MySQL</mark> <mark>PostgreSQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>ExpressJS</mark> <mark>Firebase</mark> <mark>Analytics</mark> <mark>MapBox</mark> <mark>GoogleMaps</mark> <mark>Release Management</mark> <mark>iOS</mark> <mark>Android</mark> <mark>C#</mark> <mark>NoSQL Databases</mark> <mark>Git</mark> <mark>.NET</mark> <mark>Continuous Delivery</mark> <mark>Internationalization</mark> <mark>Localization</mark>
+- layout: top-middle
+  name: DevOps & Tools
+  description: |
+    • Extensive experience with mobile CI/CD pipelines
+    • Proficient with various CI platforms (GitHub Actions, Bitrise, AppCenter)
+    • Experience with monitoring and analytics implementation
+    • Version control with Git and release management
+    • Automated testing implementation (Unit, E2E)
+    • Code quality and security best practices
 
-- layout: top
-  name: "Soft Skills & Personal Traits"
-  # link: github.com/sproogen
-  # github: sproogen/resume-theme
-  description: | # this will include new lines to allow paragraphs
-    <mark>Ability to Lead</mark> <mark>Effective Communication</mark> <mark>Relationship Building</mark> <mark>Industry Expertise</mark> <mark>Perceptive of Team Needs</mark> <mark>Trustworthiness</mark> <mark>Time Management</mark> <mark>Commitment</mark> <mark>Confidence</mark> <mark>Problem Solving</mark> <mark>Work Ethics</mark> <mark>Adaptability</mark> <mark>Empathy</mark> <mark>Taking criticism</mark> <mark>Conflict Resolution</mark> <mark>Ability to delegate</mark> <mark>Identify goals</mark> <mark>Valuate progress</mark>
+- layout: top-middle
+  name: Notable Technical Skills
+  description: |
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>Swift</mark> <mark>Kotlin</mark> 
+    <mark>Java</mark> <mark>Objective-C</mark> <mark>Node.js</mark> <mark>AWS</mark> 
+    <mark>GraphQL</mark> <mark>REST</mark> <mark>Redux</mark> <mark>React</mark> 
+    <mark>Next.js</mark> <mark>MongoDB</mark> <mark>SQL</mark> <mark>Firebase</mark>
+    <mark>CI/CD</mark> <mark>Testing</mark> <mark>IaC</mark>

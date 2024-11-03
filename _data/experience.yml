@@ -1,4 +1,3 @@
-
 - layout: right
   company: Expend
   link: https://www.expend.com
@@ -6,28 +5,27 @@
   dates: October 2022 - Present
   quote: >
     Expend aim is to provide 1 touch expense management software. Offering mastercard debit cards, and *Card Connect* to bring real time transactions, for extremely easy expense management.
-  description: | # this will include new lines to allow paragraphs
-    Leading the mobile app development at Expend, I spearheaded the introduction of new user-centric features and integrated several third-party SDKs to enhance app functionality.
-    
-    Besides new shiny things, my responsibilities include support existing features, a fancy way to describe bug fixing, small changes here and and ocasional edge cases where a user orders -9 beers from a bar :) 
-    
-    Increase confidence in the platform improving the codebase, along with confidence in the tests, having also introduced e2e testing, TypeScript, and better error monitoring and reporting and analytics tools.
-    
-    Major refactors include giving it a new look, and major overhaul to core and most accessed functionalities, migration of the mobile codebase to a shared Monorepo, allowing for massive code sharing.
-    
-    Creating and maintaining existing native modules in Java, Swift and Objective-C, with some dabble in Kotlin.
-    
-    Ensure security and privacy standards, along top notch user experience and reliability as expected from any financial service. 
-    
-    Collaborate on backend event driven architecture, using AWS lambdas in NodeJS.
-    
-    Collaborate with CI/CD of other services, lambdas, nextJS webapp, even, for example, experimenting with provisioning lambda@edge deployed nextJs application with open-next and Pulumi.
-    
-    Collaborate on feature discovery and solution architecture for new functionalities across domains, backend, web and mobile.
-    
-    Collaborate across domains as per team needs, in particular with react based web app.
-    
-      <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Redux</mark> <mark>Maestro Studio</mark> <mark>Push Provisioning</mark> <mark>Google Pay</mark> <mark>Apple Wallet</mark> <mark>PassKit</mark> <mark>Testing Library</mark> <mark>CI/CD</mark> <mark>Swift</mark> <mark>Java</mark> <mark>AWS</mark> <mark>Pulumi</mark> <mark>Firestore</mark> 
+  description: |
+    As Senior Software Engineer leading mobile development initiatives:
+
+    • Introduce new user-centric features and integrate third-party SDKs to enhance app functionality
+
+    • Led platform modernization including TypeScript adoption, E2E testing implementation, and codebase migration to shared monorepo
+
+    • Create and maintain native modules across Java, Kotlin, Swift, and Objective-C
+
+    • Enhance platform reliability through improved error monitoring, reporting, and analytics tools
+
+    • Collaborate on feature discovery and solution architecture for new functionalities across domains, backend, web and mobile.
+
+    • Collaborate on backend event-driven architecture using AWS Lambda/NodeJS
+
+
+    • Collaborate on CI/CD across domains, lambdas, nextJS, amplify, IaC.
+
+    • Maintain security and privacy standards while ensuring excellent user experience
+
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Redux</mark> <mark>Maestro Studio</mark> <mark>Push Provisioning</mark> <mark>Google Pay</mark> <mark>Apple Wallet</mark> <mark>PassKit</mark> <mark>Testing Library</mark> <mark>CI/CD</mark> <mark>Swift</mark> <mark>Java</mark> <mark>AWS</mark> <mark>Pulumi</mark> <mark>Firestore</mark>
 
 - layout: left
   company: Peppy Health
@@ -43,11 +41,11 @@
     On my day to day I contributed to defining solutions for new features and implementing them.
 
     ▪ Mobile app development using React Native
-    
+
     ▪ Unit and E2E testing
-    
+
     ▪ RESTful API consumpting and thirdparty SDKs
-    
+
     ▪ Improving developer experience
 
     ▪ Mentoring and coaching
@@ -55,7 +53,7 @@
     ▪ SDLC Workflows
 
     ▪ Release management & CI/CD Integrations
-  
+
 - layout: right
   company: pubGENIUS
   link: https://www.pubgenius.io
@@ -67,7 +65,7 @@
     Joined as a consultor, providing solutions for clients and in house platforms.
     Helping setup build pipelines, best prattices, development workflows, improving developer experience and in general help improve long term code quality and maintainability. 
     Mentoring colleagues on best pratices and supporting wherever needed.
-    
+
     ▪ Mobile app development using React Native
 
     ▪ UX and platform best practices for both iOS and Android
@@ -75,9 +73,9 @@
     ▪ Mentoring 
         
     ▪ QA Workflows
-    
+
     ▪ Development Workflows
-    
+
     ▪ GraphQL and REST API consumption
 
     ▪ Continuous delivery
@@ -88,7 +86,7 @@
 
     ▪ 3rd party integrations, SDKs, APIs, libraries, frameworks
 
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Push Notifications</mark> <mark>Redux</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>iOS</mark> <mark>Android</mark> <mark>AppCenter</mark> <mark>Gitlab</mark> 
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Push Notifications</mark> <mark>Redux</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>iOS</mark> <mark>Android</mark> <mark>AppCenter</mark> <mark>Gitlab</mark>
 
 - layout: left
   company: Rotageek
@@ -99,9 +97,9 @@
     Rotageek helps organisations predict and meet demand, using complex data-driven technologies to effectively and fairly schedule staff.
   description: | # this will include new lines to allow paragraphs
     Took ownership of the ‘jewel’ in the scheduling solution : the mobile app.
-    
+
     Working as the sole mobile devoloper, leading and strategizing with product and API team all mobile work, and it's tech stack and technical decisions. 
-    
+
     Always improving the functionality of it, adding new features, improving the user experience and generally, adding features on mobile first, before they are rolled to the rest of the solution. 
 
     I’ve taken responsibility for the architecture, build and maintenance of it. With a primary focus on the mobile app but, since I’m passionate about how tech can solve problems I was welcomed to work on web app and API development too (C#). 
@@ -111,17 +109,17 @@
     ▪ UX and platform best practices for both iOS and Android
 
     ▪ Mobile Lead
-    
+
     ▪ QA Workflows
-    
+
     ▪ E2E automated tests
-    
+
     ▪ Unit tests
-    
+
     ▪ Agile development
 
     ▪ C# Backend development
-    
+
     ▪ ReactJS frontend development
 
     ▪ GraphQL and REST API development and consumption
@@ -134,7 +132,7 @@
 
     ▪ 3rd party integrations, SDKs, APIs, libraries, frameworks
 
-    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Push Notifications</mark> <mark>Jira</mark> <mark>MSSQL</mark> <mark>Apollo</mark> <mark>GraphQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>C#</mark> <mark>Visual Studio</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Bitrise</mark> <mark>Github Actions</mark> 
+    <mark>React Native</mark> <mark>TypeScript</mark> <mark>React Hooks</mark> <mark>Push Notifications</mark> <mark>Jira</mark> <mark>MSSQL</mark> <mark>Apollo</mark> <mark>GraphQL</mark> <mark>Redux</mark> <mark>React</mark> <mark>CI/CD</mark> <mark>REST</mark> <mark>C#</mark> <mark>Visual Studio</mark> <mark>iOS</mark> <mark>Android</mark> <mark>Bitrise</mark> <mark>Github Actions</mark>
 
 - layout: right
   company: Logirix
